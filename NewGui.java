@@ -1,15 +1,17 @@
 // Students Alisa Bajenova, Kyryll Kotyk, Eric Lindquist
 // 6.16.2022
 // CSE 142 AP COMP SCI
-// GUI class
-// will recieve information and display the graphics seen on screen
 
 import javax.swing.*;
 import java.awt.*;
 import javax.swing.event.*;
 import java.awt.event.*;
 import java.util.*;
-
+/**
+ *GUI Class
+ *Responsible for drawing graphics
+ *Will receive information and display the graphics seen on screen
+ */
 public class NewGui extends JPanel{
    private Difficulty diff = new Difficulty();
    GuiController gui = new GuiController(diff);

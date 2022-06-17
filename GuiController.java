@@ -1,13 +1,14 @@
 //Students Alisa Bajenova, Kyryll Kotyk, Eric Lindquist
 // 6.16.2022
 // CSE 142 AP COMP SCI
-//This will run the game, end the game, create pop ups for win/loss
-//Register mouse clicks and uses the information given from the clicks
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.event.*;
-
+/**
+ *This will start the game when it's run, end the game, create pop ups for win/loss
+ *Registers mouse clicks and uses the information given from the clicks 
+ */
 public class GuiController extends MouseInputAdapter{
    public boolean isOver = false;
    private int time;

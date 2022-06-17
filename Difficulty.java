@@ -1,8 +1,10 @@
 //Students Alisa Bajenova, Kyryll Kotyk, Eric Lindquist
 // 6.16.2022
 // CSE 142 AP COMP SCI
-//This class will return the information about
-//rows, columns, bombs, and tile size
+
+   /**
+    *This class returns information about rows, columns, bombs, and tile size
+    */
 public class Difficulty{
    /**
     *Constructs the class

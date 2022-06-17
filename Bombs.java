@@ -6,7 +6,9 @@
 // other programs can ask how many bombs are adjacent
 
 import java.util.*;
-
+/**
+ *A class that creates and generates bombs on the minefield.
+ */
 public class Bombs{
    private boolean[][] grid;
    /**
@@ -15,7 +17,6 @@ public class Bombs{
    * @param x - the x value of the first click
    * @param y - the y value of the first click
    * @param number - the number of bombs to generate
-   * @return a Bombs object
    */
    public Bombs(boolean[][] bombs, int x, int y, int number){
       int total = number;

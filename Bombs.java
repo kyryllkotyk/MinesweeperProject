@@ -1,7 +1,7 @@
 // Students Alisa Bajenova, Kyryll Kotyk, Eric Lindquist
 // 6.16.2022
 // CSE 142 AP COMP SCI
-// bomb location class
+// bomb location class 
 // will create the bombs randomly
 // other programs can ask how many bombs are adjacent
 

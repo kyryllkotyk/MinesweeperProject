@@ -1,5 +1,5 @@
 # MinesweeperProject
-This project makes a minesweeper game similar to Google Minesweeper.
+This is a classic minesweeper game 
 
 How to run:
 Step 1) Download a professional environment that compiles and runs Java files. (https://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html) use the link to download and follow instructions on the installer. https://www.oracle.com/java/technologies/downloads/#jdk18-windows Use this link to install an Installer for your OS.
